@@ -25,4 +25,12 @@
     border-radius: 10px;
     border: none;
   }
+
+  input {
+    text-align: center;
+  }
+
+  ::-webkit-input-placeholder {
+    text-align: center;
+  }
 }
